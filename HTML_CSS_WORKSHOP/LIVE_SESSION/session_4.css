@@ -1,13 +1,29 @@
-.main{
+/* .main{
     background-color: rgb(255, 255, 186);
 }
 .box{
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     border:5px double rgb(0, 187, 255);
-    width:23%;
+    width:29.2%;
     margin:10px;
-    padding:20px;
+    padding:10px;
     text-align: center;
     background-color:rgb(216, 147, 147);
-    display:inline-block
+    display:inline-block;
+   
+} */
+
+.main{
+    background-color: rgb(255, 255, 186);
+}
+.flower{
+    color: rgb(0, 0, 0);
+    border:5px double rgb(0, 187, 255);
+    width:20%;
+    margin:10px;
+    padding:18px;
+    text-align: center;
+    background-color:rgb(216, 147, 147);
+    display:inline-block;
+   
 }
