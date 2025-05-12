@@ -1,0 +1,73 @@
+/* button{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;   
+}
+#demo{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+.odd{
+    color:red;
+    background-color: pink;
+}
+.even{
+    color:white;
+    background-color: black;
+}
+div p{
+    font-family: fantasy;
+} */
+
+.form_style{
+    border: 5px double black;
+    padding: 20px;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+
+}
+.form_style label{
+    color:blueviolet;
+    display:block;
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+.form_style input{
+    width:90%;
+    padding:20px;
+    font-size:22px;
+    color:red;
+    font-style:italic;
+    background-color: lavenderblush;
+    border: 2px dotted navy ;
+
+}
+.form_style input:focus{
+    /* outline-color: yellow; */
+    outline: 2px double red;
+}
+.form_style input::placeholder{
+    color:dodgerblue;
+}
+.form_style input[type="submit"]{
+    background-color: rgb(254, 209, 193);
+    color: black ;
+    font-size: 30px;
+    width: 40%;
+    margin:30px;
+    border: 2px dashed black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.form_style h1{
+    border: 2px solid black;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    width: 50%;
+}
