@@ -1,0 +1,70 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/ef/9d/eb/ef9deb11aec5d4070640a4c67b81bb5c.jpg");
+    background-size: cover;       
+    background-repeat: no-repeat; 
+    background-position: center;  
+    height: 100vh;                
+    margin: 0;                    
+    display: flex;               
+    justify-content: center;     
+    align-items: center;
+}
+/* header {
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 100%;
+      
+    }
+
+    header img {
+      width: 100%;
+      display: block;
+    } */
+
+
+    .ad-container {
+  background: linear-gradient(135deg, rgba(255, 207, 158, 0.95), rgba(254, 191, 143, 0.95));
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  max-width: 450px;
+  max-height: 450px;
+}
+
+
+    .ad-container h1 {
+      color: #4e2e1a;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .ad-container p {
+      font-size: 1.2em;
+      color: #3a2415;
+      margin-bottom: 20px;
+    }
+
+    .ad-container img {
+      width: 100%;
+      max-width: 300px;
+      border-radius: 15px;
+      margin-bottom: 20px;
+    }
+
+    .ad-container button {
+      background-color: #a0522d;
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      font-size: 1em;
+      border-radius: 30px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .ad-container button:hover {
+      background-color: #663500;
+    }

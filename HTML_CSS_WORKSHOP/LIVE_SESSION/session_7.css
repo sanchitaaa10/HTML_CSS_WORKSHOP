@@ -1,0 +1,95 @@
+/* .demo1 {
+  height: 400px;
+  width: 90%;
+  margin: 20px auto;
+  background-color: rgb(251, 150, 150);
+  display: flex;
+  justify-content: center;    
+  align-items: center;        
+  text-align: center;
+}
+
+.demo1 .content {
+  display: flex;
+  flex-direction: column;     
+  align-items: center;
+}
+
+.demo1 p {
+  font-size: 20px;
+  color: white;
+  margin-bottom: 20px;
+  max-width: 600px;
+} */
+
+.text_css{
+    color:blueviolet;
+    text-shadow: 14px 22px 5px rgb(255, 226, 226);
+    text-shadow: 4px 2px 2px #EE5686;
+    text-shadow: 4px 2px 2px grey;
+
+}
+.demo2{
+    height:100px;
+    width:200px;
+    background-color: aquamarine;
+    box-shadow: 5px 5px 5px 2px grey;
+
+}
+.top_div{
+    background-color: yellow;
+    height:100px;
+    margin:30px;
+    box-shadow: 0px -10px 5px -3px grey;
+
+}
+.left_div{
+    background-color: pink;
+    height:100px;
+    margin:40px;
+    box-shadow: -10px 0px 5px -3px grey;
+
+}
+.bottom_div{
+    background-color: yellow;
+    height:100px;
+    margin:30px;
+    box-shadow: 0px 10px 5px -3px grey;
+
+}
+.right_div{
+    background-color: pink;
+    height:100px;
+    margin:30px;
+    box-shadow: 10px 0px 5px -3px grey;
+
+}
+.button{
+    background-color: pink;
+    height:30px;
+    margin:30px;
+    box-shadow: 0px 10px 5px -3px grey;
+    
+}
+.img{
+    background-color: pink;
+    margin:30px;
+    box-shadow: 10px 0px 5px -3px grey;
+
+}
+.linear {
+  font-size: 60px;
+  font-weight: bold;
+  background: linear-gradient(to right, #ff6a00, #ee0979);
+  
+}
+/* .linear {
+      font-size: 48px;
+      font-weight: bold;
+      background: linear-gradient(to right, #ff416c, #000000);
+      background: linear-gradient(to left, #000000, #ff416c);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+    } */
