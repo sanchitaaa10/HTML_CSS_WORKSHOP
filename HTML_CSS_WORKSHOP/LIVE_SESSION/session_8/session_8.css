@@ -1,0 +1,46 @@
+.inline_1{
+    border:2px solid black;
+    padding: 20px;
+
+}
+.abc{
+    display:inline-block;
+}
+.box{
+    height: 50px;
+    width: 60px;
+    background-color: pink;
+    margin: 20px;
+    border: 2px solid navy;
+
+}
+.flex_1{
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 30px;
+    display: flex;
+
+}
+.main_div1{
+    background-color: yellowgreen;
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
+    flex-direction: row;
+    flex-direction: column;
+    flex-direction: row-reverse;
+    flex-direction: column-reverse;
+
+}
+.child_div1{
+    background-color: blue;
+    color:white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    border: 2px solid black;
+    width: 30px;
+    height: 150px;
+}

@@ -77,13 +77,13 @@
     box-shadow: 10px 0px 5px -3px grey;
 
 }
-.linear {
+/* .linear {
   font-size: 60px;
   font-weight: bold;
   background: linear-gradient(to right, #ff6a00, #ee0979);
   
-}
-/* .linear {
+} */
+.linear {
       font-size: 48px;
       font-weight: bold;
       background: linear-gradient(to right, #ff416c, #000000);
@@ -92,4 +92,4 @@
       -webkit-text-fill-color: transparent;
       background-clip: text;
       color: transparent;
-    } */
+    }
